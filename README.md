@@ -8,5 +8,5 @@ Output -> `snd g]kfnL`
 ## Usage
 ```dart
 String preetiOutput = UnicodeToPreeti.unicodeToPreeti("नमस्ते नेपाल");
-  print(preetiOutput);
+print(preetiOutput);
 ```
