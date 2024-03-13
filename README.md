@@ -10,3 +10,10 @@ Output -> `snd g]kfnL`
 String preetiOutput = UnicodeToPreeti.unicodeToPreeti("नमस्ते नेपाल");
 print(preetiOutput);
 ```
+
+# Sample 
+You can run the `sample.dart` with
+```sh
+dart sample.dart
+```
+and it will print the output in console.
